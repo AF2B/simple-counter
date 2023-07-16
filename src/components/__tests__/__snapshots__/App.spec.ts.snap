@@ -1,0 +1,12 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`App > renders correctly 1`] = `
+"<main data-v-7a7a37b1=\\"\\">
+  <div data-v-7a7a37b1=\\"\\">
+    <h1 data-v-7a7a37b1=\\"\\">Just an counter with Vue 3</h1>
+  </div>
+  <div data-v-7a7a37b1=\\"\\">
+    <h2 data-v-7a7a37b1=\\"\\">Counter: 0</h2><button data-v-7a7a37b1=\\"\\">Decrement</button><button data-v-7a7a37b1=\\"\\">Increment</button>
+  </div>
+</main>"
+`;
